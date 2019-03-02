@@ -5,11 +5,18 @@
     <link>/post/</link>
     <description>Recent content in Posts on The web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Another new post</title>
+      <link>/post/another-new-post/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/another-new-post/</guid>
+      <description></description>
+    </item><item>
       <title>New item</title>
       <link>/post/new-item/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
@@ -23,13 +30,6 @@
       
       <guid>/post/aether-features/</guid>
       <description>Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more.</description>
-    </item><item>
-      <title>Aether: A Clean Theme for Hugo</title>
-      <link>/post/aether-theme/</link>
-      <pubDate>Wed, 02 May 2018 14:33:42 -0400</pubDate>
-      
-      <guid>/post/aether-theme/</guid>
-      <description> Aether is new theme for Hugo that emphasizes motion, material, and depth as design elements. Distracting styling and page elements are forgone to focus on the content.</description>
     </item>
   </channel>
 </rss>

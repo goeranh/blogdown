@@ -1,0 +1,17 @@
+---
+title: Another new post
+author: GH
+date: '2019-03-02'
+slug: another-new-post
+categories: []
+tags: []
+description: ''
+dropCap: no
+displayInMenu: no
+displayInList: yes
+---
+
+This is another new post.
+
+![Rich or poor](rich_poor.jpg)
+
