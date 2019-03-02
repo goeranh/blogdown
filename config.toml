@@ -1,0 +1,13 @@
+baseurl = "/"
+title = "The web"
+author = "GH"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+brand = "The Seaside"
+description = "aether Hugo theme for blogs"
+bgimg = "img/ignasi_pattern_s.png"
