@@ -13,5 +13,5 @@ displayInList: yes
 
 This is another new post.
 
-![Rich or poor](rich_poor.jpg)
+![Rich or poor](/img/rich_poor.jpg)
 
