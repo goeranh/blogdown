@@ -1,0 +1,18 @@
+---
+title: New item
+author: Göran Henriksson
+date: '2019-03-01'
+slug: new-item
+categories: []
+tags: []
+description: ''
+dropCap: no
+displayInMenu: no
+displayInList: yes
+---
+
+Detta är en ny post.
+
+![En ny bild](/img/FollowYourDreams.jpg)
+
+$a^2 + b^2 = c^2$
