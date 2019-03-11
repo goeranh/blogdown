@@ -5,7 +5,11 @@ canonifyurls = true
 paginate = 3
 theme = "aether"
 
-# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[[main.menu]]
+name = "Rbook"
+url = "/rbook/"
 
 [params]
 brand = "aether"

@@ -7,6 +7,7 @@ dropCap = false
 +++
 
 Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+This is from template...
 
 It makes use of a variety of open source projects including:
 
